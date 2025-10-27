@@ -548,7 +548,7 @@ Program ini mencari data di linked list yang sudah terurut dengan cara membagi d
 ### Output Unguided 1 :
 
 ##### Output 1
-![output ung1](https://github.com/abidfadhil/103112400046_Abid-Fadhilah-Mustofa/blob/main/prak5/output%20ung1.jpg)
+![output ung1](https://github.com/abidfadhil/103112400046_Abid-Fadhilah-Mustofa/blob/main/prak5/output%20ung1.png)
 
 
 program di atas merupakan program operasi matriks 3x3 yang menggunakan menu interaktif untuk memilih jenis operasi yang diinginkan. Pengguna dapat memilih antara penjumlahan, pengurangan, atau perkalian dua matriks yang ditentukan di awal program. Setiap operasi dilakukan menggunakan fungsi terpisah (jumlahmatriks, kurangmatriks, dan kalimatriks) yang masing-masing menghitung dan menampilkan hasilnya dalam bentuk matriks. Program akan terus menampilkan menu hingga pengguna memilih opsi keluar
@@ -642,7 +642,7 @@ Program ini mencari data di dalam linked list dengan cara mengecek satu per satu
 ### Output Unguided 2 :
 
 ##### Output 1
-![output ung2](https://github.com/abidfadhil/103112400046_Abid-Fadhilah-Mustofa/blob/main/prak5/output%20ung2.jpg)
+![output ung2](https://github.com/abidfadhil/103112400046_Abid-Fadhilah-Mustofa/blob/main/prak5/output%20ung2.png)
 
 Program ini menghitung luas dan keliling persegi panjang menggunakan konsep pointer, program menampilkan nilai panjang dan lebar, lalu pointer digunakan untuk mengakses alamat variabel tersebut untuk menghitung luas dan keliling. Setelah itu, nilai panjang dan lebar diubah melalui pointer, dan program kembali menghitung serta menampilkan luas dan keliling baru berdasarkan nilai yang telah diperbarui.
 
