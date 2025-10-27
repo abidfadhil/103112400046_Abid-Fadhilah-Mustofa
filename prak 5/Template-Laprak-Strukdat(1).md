@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 5 - Codeblocks IDE & Pengenalan Bahas C++ (Bagian Pertama)</h1>
+# <h1 align="center">Laporan Praktikum Modul 5 - singly linked list (Bagian kedua)</h1>
 <p align="center"> Abid Fadhilah Mustofa- 103112400046 </p>
 
 ## Dasar Teori
