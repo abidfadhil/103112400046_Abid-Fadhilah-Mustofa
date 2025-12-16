@@ -466,7 +466,7 @@ Program ini adalah queue circular berbasis array berukuran 5 yang menggunakan he
 ##### Output Unguaided 1 :
 
 ##### Output 1
-![output_unguaided 3](https://github.com/abidfadhil/103112400046_Abid-Fadhilah-Mustofa/blob/main/prak7/soal3/soal3.jpg)
+![soal1](https://github.com/abidfadhil/103112400046_Abid-Fadhilah-Mustofa/blob/main/prak%208/soal1.jpg)
 
 
 ### 2. 
@@ -602,7 +602,7 @@ Program ini adalah queue circular berbasis array yang bisa menambah (enqueue), m
 ### Output Unguided 2 :
 
 ##### Output 1
-![output _unguaided 2](https://github.com/abidfadhil/103112400046_Abid-Fadhilah-Mustofa/blob/main/prak7/soal2/soal2.jpg)
+![soal2](https://github.com/abidfadhil/103112400046_Abid-Fadhilah-Mustofa/blob/main/prak%208/soal2.jpg)
 
 
 ### 3. 
@@ -736,7 +736,7 @@ Program ini adalah queue circular berbasis array yang bisa menambah (enqueue), m
 ### Output Unguided 3 :
 
 ##### Output 1
-![output_unguaided 3](https://github.com/abidfadhil/103112400046_Abid-Fadhilah-Mustofa/blob/main/prak7/soal3/soal3.jpg)
+![soal3](https://github.com/abidfadhil/103112400046_Abid-Fadhilah-Mustofa/blob/main/prak%208/soal3.jpg)
 
 penjelasan unguided 3
 
